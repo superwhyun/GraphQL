@@ -1,0 +1,3 @@
+[submodule "Tutorial/Flask-Graphene-SQLAlchemy"]
+	path = Tutorial/Flask-Graphene-SQLAlchemy
+	url = https://github.com/graphql-python/graphene-sqlalchemy
